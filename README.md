@@ -1,2 +1,0 @@
-# tokyosaikyo
-Created with CodeSandbox
